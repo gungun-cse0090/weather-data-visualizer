@@ -1,0 +1,22 @@
+WEATHER DATA ANALYSIS REPORT
+=============================================
+
+Daily Temperature Stats:
+{'mean': np.float64(29.75), 'min': np.int64(22), 'max': np.int64(37), 'std': np.float64(4.632550735371332)}
+
+Monthly Rainfall (Sum):
+Month
+1     4
+2     7
+3     1
+4     0
+5     1
+6    30
+Name: sum, dtype: int64
+
+Seasonal Statistics:
+        Temperature  Rainfall   Humidity
+Season                                  
+Spring       33.000         2  28.888889
+Summer       33.000        30  60.333333
+Winter       24.875        11  45.125000
